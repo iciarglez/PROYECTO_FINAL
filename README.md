@@ -198,6 +198,13 @@ En el año 2024, la composición de los grupos es: 48,90%, 34,83%, 10,99% y 5,28
 
 ### Power BI
 
+Se presenta un dashboard con información de los datasets analizados:
+- Gráfico de líneas con doble eje Y para representar la evolución de los accidentes por 1.000 habitantes y los fallecidos por 1.000 habitantes.
+- Dos KPIs con el número de accidentes con víctimas y el número de fallecidos. Ambos KPIs tienen un selector de año asociado.
+- Gráfico de mapas que muestra los accidentes por 1.000 habitantes por CCAA. El filtro de año también aplica a este gráfico.
+- Tabla con un ranking de los municipios, con más de 500 habitantes, ordenados según el indicador de accidentes por 1.000 habitantes, de mayor a menor. El filtro de año aplica a este gráfico.
+
+En este panel da respuesta, a partir de estas visualizaciones, a las cuestiones acerca de los accidentes en la última década. Se parte de un gráfico de evolución nacional y se amplía el detalle a nivel autonómico y municipal.
 
 
 
@@ -223,4 +230,5 @@ Estas son algunas líneas de investigación que surgen a raíz del trabajo reali
 - Profundizar en el análisis descriptivo de los municipios, haciendo más grupos por tamaños.
 - Analizar con mayor detalle cada uno de los años, no solo 2014 y 2024.
 - Mejorar el análisis de las sanciones (velocidad, alcohol, drogas) en relación con los accidentes o los fallecidos.
-- Análisis multivariante: clústers de municipios y componentes principales
+- Análisis multivariante: clústers de municipios y componentes principales.
+- Ampliar el dashboard para cubrir diferentes necesidades.
